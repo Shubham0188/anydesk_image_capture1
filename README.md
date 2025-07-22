@@ -1,0 +1,1 @@
+# anydesk_image_capture1
